@@ -1,0 +1,10 @@
+h2{
+  color: blue;
+  font-family: cursive;
+}
+
+a{
+  color: green;
+  //text-decoration: overline;
+  text-decoration: underline;
+}
